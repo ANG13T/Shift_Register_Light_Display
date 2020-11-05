@@ -1,4 +1,4 @@
-# 74HC595 Shift Register Light Display
+# 74HC595 Light Display
 
 This projects utilizes a 74HC595 shift register to make a display with LEDS!
 
